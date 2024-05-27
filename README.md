@@ -1,8 +1,11 @@
-# React + Vite
+# How to Play this Game:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Start the game by clicking the "Start" button.
 
-Currently, two official plugins are available:
+Simon will play a sequence of colors.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Remember the sequence.
+
+Click or tap the colors in the same order as Simon played them.
+
+If you make a mistake, the game will end, and your score will be displayed.
